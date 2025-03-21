@@ -1,0 +1,18 @@
+# Hugo 站点忽略规则
+public/
+resources/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# 忽略 Windows 相关文件
+Desktop.ini
+.ntuser*
+.AppData/
+.OneDrive/
+.Saved Games/
+.Videos/
+.Pictures/
+.Music/
